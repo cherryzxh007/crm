@@ -1,0 +1,2668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="com.sg.ui.enumerate">
+      <enumerate
+            id="com.sg.crm.enumerate.product"
+            label="商品清单">
+         <enumerate
+               id="WPD-CPE5049-F"
+               label="Windchill PDMLink - Heavy User License"
+               value="Windchill PDMLink - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5050-F"
+               label="Windchill PDMLink - Light User License"
+               value="Windchill PDMLink - Light User License">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5051-F"
+               label="Windchill PDMLink - External User Capacity License"
+               value="Windchill PDMLink - External User Capacity License">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5065-F"
+               label="Windchill PDMLink View and Print Only License"
+               value="Windchill PDMLink View and Print Only License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5366-F"
+               label="Windchill Mobile App"
+               value="Windchill Mobile App">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE6007-F"
+               label="Windchill Web Parts for SharePoint"
+               value="Windchill Web Parts for SharePoint">
+         </enumerate>
+         <enumerate
+               id="PKG-5055-F"
+               label="Windchill Visualization Adapter Starter Package"
+               value="Windchill Visualization Adapter Starter Package">
+         </enumerate>
+         <enumerate
+               id="WNX-CPE5025-F"
+               label="Windchill Solutions ProductView Visualization for UNIX"
+               value="Windchill Solutions ProductView Visualization for UNIX">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5054-UF"
+               label="Upgrade: Windchill PDMLink Light to Heavy User License"
+               value="Upgrade: Windchill PDMLink Light to Heavy User License">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5052-UF"
+               label="Upgrade: Windchill Foundation to Windchill PDMLink Light Seat"
+               value="Upgrade: Windchill Foundation to Windchill PDMLink Light Seat">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5053-UF"
+               label="Upgrade: Windchill Foundation and PDM to Windchill PDMLink Heavy Seat"
+               value="Upgrade: Windchill Foundation and PDM to Windchill PDMLink Heavy Seat">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5359-UF"
+               label="Upgrade to Windchill PDMLink Heavy from Windchill PDMLink View and Print"
+               value="Upgrade to Windchill PDMLink Heavy from Windchill PDMLink View and Print">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5360-UF"
+               label="Upgrade to Windchill PDMLink Light from Windchill PDMLink View and Print"
+               value="Upgrade to Windchill PDMLink Light from Windchill PDMLink View and Print">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5075-FN"
+               label="Packaged Pro/INTRALINK to 2 Windchill PDMLink Heavy User Upgrade"
+               value="Packaged Pro/INTRALINK to 2 Windchill PDMLink Heavy User Upgrade">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5076-UFN"
+               label="Upgrade: Pro/INTRALINK Multi-Site to 2 Windchill PDMLink Heavy User Licenses"
+               value="Upgrade: Pro/INTRALINK Multi-Site to 2 Windchill PDMLink Heavy User Licenses">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5077-UF"
+               label="Upgrade: Pro/INTRALINK Single-Site to Windchill PDMLink Heavy User License"
+               value="Upgrade: Pro/INTRALINK Single-Site to Windchill PDMLink Heavy User License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPS5302-F"
+               label="Windchill PLM Connector - Server License"
+               value="Windchill PLM Connector - Server License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5303-F"
+               label="Windchill PLM Connector- Client License"
+               value="Windchill PLM Connector- Client License">
+         </enumerate>
+         <enumerate
+               id="WML-5081-F"
+               label="Windchill MPMLink Process Planning"
+               value="Windchill MPMLink Process Planning">
+         </enumerate>
+         <enumerate
+               id="WML-5088-F"
+               label="Windchill MPMLink BoM Management"
+               value="Windchill MPMLink BoM Management">
+         </enumerate>
+         <enumerate
+               id="PKG-8934-F"
+               label="Windchill CEM - Heavy User License"
+               value="Windchill CEM - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="PKG-8935-F"
+               label="Windchill CEM - Light User License"
+               value="Windchill CEM - Light User License">
+         </enumerate>
+         <enumerate
+               id="PKG-8936-F"
+               label="Windchill CAPA - Heavy User License"
+               value="Windchill CAPA - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="PKG-8937-F"
+               label="Windchill CAPA - Light User License"
+               value="Windchill CAPA - Light User License">
+         </enumerate>
+         <enumerate
+               id="PKG-8938-F"
+               label="Windchill Nonconformance - Heavy User License"
+               value="Windchill Nonconformance - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="PKG-8939-F"
+               label="Windchill Nonconformance - Light User License"
+               value="Windchill Nonconformance - Light User License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE6008-F"
+               label="Windchill PPMLink Portfolio License"
+               value="Windchill PPMLink Portfolio License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE6009-F"
+               label="Windchill PPMLink Program License"
+               value="Windchill PPMLink Program License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE6010-F"
+               label="Windchill PPMLink PLM Executive Bundle"
+               value="Windchill PPMLink PLM Executive Bundle">
+         </enumerate>
+         <enumerate
+               id="PKG-2198-F"
+               label="Windchill Business Report Author"
+               value="Windchill Business Report Author">
+         </enumerate>
+         <enumerate
+               id="PKG-2199-F"
+               label="Windchill Business Report Monitor"
+               value="Windchill Business Report Monitor">
+         </enumerate>
+         <enumerate
+               id="WPL-CPE5046-F"
+               label="Windchill ProjectLink - Heavy User License"
+               value="Windchill ProjectLink - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="WPL-CPE5047-F"
+               label="Windchill ProjectLink - Light User License"
+               value="Windchill ProjectLink - Light User License">
+         </enumerate>
+         <enumerate
+               id="WPL-CPE5048-F"
+               label="Windchill ProjectLink - External User Capacity License"
+               value="Windchill ProjectLink - External User Capacity License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5056-F"
+               label="Windchill PDMLink and ProjectLink - Heavy User License"
+               value="Windchill PDMLink and ProjectLink - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5057-F"
+               label="Windchill PDMLink and ProjectLink - Light User License"
+               value="Windchill PDMLink and ProjectLink - Light User License">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5058-F"
+               label="Windchill PDMLink and ProjectLink - External User Capacity License"
+               value="Windchill PDMLink and ProjectLink - External User Capacity License">
+         </enumerate>
+         <enumerate
+               id="WPD-CPE5090-F"
+               label="Windchill Supplier Management - User License"
+               value="Windchill Supplier Management - User License">
+         </enumerate>
+         <enumerate
+               id="WEC-CP017-F"
+               label="Windchill PartsLink Classification and Re-Use Edition - Heavy User License"
+               value="Windchill PartsLink Classification and Re-Use Edition - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="WEC-CP017-UF"
+               label="Upgrade to Windchill PartsLink Classification and Re-Use Heavy"
+               value="Upgrade to Windchill PartsLink Classification and Re-Use Heavy">
+         </enumerate>
+         <enumerate
+               id="WEC-CP019-F"
+               label="Windchill PartsLink Classification and Re-Use Edition - Light User License"
+               value="Windchill PartsLink Classification and Re-Use Edition - Light User License">
+         </enumerate>
+         <enumerate
+               id="WNC-2451-F"
+               label="Windchill Interference Services Manager"
+               value="Windchill Interference Services Manager">
+         </enumerate>
+         <enumerate
+               id="WNC-2452-F"
+               label="Windchill Print Services"
+               value="Windchill Print Services">
+         </enumerate>
+         <enumerate
+               id="WNC-2132-F"
+               label="Windchill Workgroup Manager for CADDS"
+               value="Windchill Workgroup Manager for CADDS">
+         </enumerate>
+         <enumerate
+               id="WNC-2175-F"
+               label="Windchill Workgroup Manager for CATIA V5"
+               value="Windchill Workgroup Manager for CATIA V5">
+         </enumerate>
+         <enumerate
+               id="WNC-2141-F"
+               label="Windchill Workgroup Manager for Unigraphics"
+               value="Windchill Workgroup Manager for Unigraphics">
+         </enumerate>
+         <enumerate
+               id="WNC-2163-F"
+               label="Windchill Workgroup Manager for SolidWorks"
+               value="Windchill Workgroup Manager for SolidWorks">
+         </enumerate>
+         <enumerate
+               id="WNC-2133-F"
+               label="Windchill Workgroup Manager for AutoCAD"
+               value="Windchill Workgroup Manager for AutoCAD">
+         </enumerate>
+         <enumerate
+               id="WNC-2178-F"
+               label="Windchill Workgroup Manager for Autodesk Inventor"
+               value="Windchill Workgroup Manager for Autodesk Inventor">
+         </enumerate>
+         <enumerate
+               id="WNC-2195-F"
+               label="Windchill Workgroup Manager for Creo Schematics"
+               value="Windchill Workgroup Manager for Creo Schematics">
+         </enumerate>
+         <enumerate
+               id="WNC-2125-F"
+               label="Windchill Optegra Gateway"
+               value="Windchill Optegra Gateway">
+         </enumerate>
+         <enumerate
+               id="WNC-2212-F"
+               label="Windchill Workgroup Manager for Mathcad"
+               value="Windchill Workgroup Manager for Mathcad">
+         </enumerate>
+         <enumerate
+               id="WNC-2213-F"
+               label="Windchill Workgroup Manager for Arbortext IsoDraw"
+               value="Windchill Workgroup Manager for Arbortext IsoDraw">
+         </enumerate>
+         <enumerate
+               id="WNC-2214-F"
+               label="Windchill Workgroup Manager for Creo Elements/Direct"
+               value="Windchill Workgroup Manager for Creo Elements/Direct">
+         </enumerate>
+         <enumerate
+               id="WNC-2223-F"
+               label="Windchill Workgroup Manager for Creo Elements/Direct Modeling"
+               value="Windchill Workgroup Manager for Creo Elements/Direct Modeling">
+         </enumerate>
+         <enumerate
+               id="WNC-2215-F"
+               label="Windchill Gateway for Cadence ADW"
+               value="Windchill Gateway for Cadence ADW">
+         </enumerate>
+         <enumerate
+               id="WNC-2216-F"
+               label="Windchill Gateway for Creo Elements/Direct Model Manager"
+               value="Windchill Gateway for Creo Elements/Direct Model Manager">
+         </enumerate>
+         <enumerate
+               id="WNC-2217-F"
+               label="Windchill Workgroup Manager for Creo Illustrate"
+               value="Windchill Workgroup Manager for Creo Illustrate">
+         </enumerate>
+         <enumerate
+               id="WNC-2218-F"
+               label="Windchill Workgroup Manager for Cadence"
+               value="Windchill Workgroup Manager for Cadence">
+         </enumerate>
+         <enumerate
+               id="WNC-2219-F"
+               label="Windchill Workgroup Manager for Mentor Graphics"
+               value="Windchill Workgroup Manager for Mentor Graphics">
+         </enumerate>
+         <enumerate
+               id="WNC-2220-F"
+               label="Windchill Workgroup Manager for Zuken"
+               value="Windchill Workgroup Manager for Zuken">
+         </enumerate>
+         <enumerate
+               id="WNC-2221-F"
+               label="Windchill Workgroup Manager for Altium"
+               value="Windchill Workgroup Manager for Altium">
+         </enumerate>
+         <enumerate
+               id="WNC-2222-F"
+               label="Windchill Gateway for FORAN"
+               value="Windchill Gateway for FORAN">
+         </enumerate>
+         <enumerate
+               id="WNC-2225-F"
+               label="Windchill Workgroup Manager for Blueprint-PCB"
+               value="Windchill Workgroup Manager for Blueprint-PCB">
+         </enumerate>
+         <enumerate
+               id="WNC-2226-F"
+               label="Windchill Workgroup Manager for CAM 350"
+               value="Windchill Workgroup Manager for CAM 350">
+         </enumerate>
+         <enumerate
+               id="WNX-2334-F"
+               label="Windchill External Server Access - Heavy User License"
+               value="Windchill External Server Access - Heavy User License">
+         </enumerate>
+         <enumerate
+               id="WNX-2334-UF"
+               label="Upgrade to Windchill External Server Access Heavy"
+               value="Upgrade to Windchill External Server Access Heavy">
+         </enumerate>
+         <enumerate
+               id="WNX-2401-F"
+               label="Windchill External Server Access - Light User License"
+               value="Windchill External Server Access - Light User License">
+         </enumerate>
+         <enumerate
+               id="WNA-2352-F"
+               label="Windchill DOORS Adapter"
+               value="Windchill DOORS Adapter">
+         </enumerate>
+         <enumerate
+               id="WNA-2346-F"
+               label="Windchill JDBC Adapter"
+               value="Windchill JDBC Adapter">
+         </enumerate>
+         <enumerate
+               id="WNA-2395-F"
+               label="Windchill Info*Engine Java Adapter Development Kit"
+               value="Windchill Info*Engine Java Adapter Development Kit">
+         </enumerate>
+         <enumerate
+               id="WNA-2340-F"
+               label="Windchill Info*Engine SAP R/3 Adapter"
+               value="Windchill Info*Engine SAP R/3 Adapter">
+         </enumerate>
+         <enumerate
+               id="WNA-2402-F"
+               label="Windchill Enterprise Systems Integration (ESI) for SAP Package"
+               value="Windchill Enterprise Systems Integration (ESI) for SAP Package">
+         </enumerate>
+         <enumerate
+               id="WNA-2406-F"
+               label="Windchill Enterprise System Integration (ESI) for Oracle Package"
+               value="Windchill Enterprise System Integration (ESI) for Oracle Package">
+         </enumerate>
+         <enumerate
+               id="WNA-2409-F"
+               label="Windchill ESI Add-On Adapter for SAP R/3"
+               value="Windchill ESI Add-On Adapter for SAP R/3">
+         </enumerate>
+         <enumerate
+               id="WNA-2408-F"
+               label="Windchill ESI Add-On Adapter for Oracle Applications"
+               value="Windchill ESI Add-On Adapter for Oracle Applications">
+         </enumerate>
+         <enumerate
+               id="WNA-2403-F"
+               label="Windchill ESI Business Logic for SAP R/3"
+               value="Windchill ESI Business Logic for SAP R/3">
+         </enumerate>
+         <enumerate
+               id="WNA-2407-F"
+               label="Windchill ESI Business Logic for Oracle"
+               value="Windchill ESI Business Logic for Oracle">
+         </enumerate>
+         <enumerate
+               id="PKG-2435-F"
+               label="Creo View MCAD  Registered User"
+               value="Creo View MCAD  Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2436-UF"
+               label="Upgrade ProductView Standard Registered User to Creo View MCAD  Registered User"
+               value="Upgrade ProductView Standard Registered User to Creo View MCAD  Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2437-F"
+               label="Creo View MCAD  Concurrent User"
+               value="Creo View MCAD  Concurrent User">
+         </enumerate>
+         <enumerate
+               id="PKG-2438-UF"
+               label="Upgrade ProductView Standard Concurrent User to Creo View MCAD  Concurrent User"
+               value="Upgrade ProductView Standard Concurrent User to Creo View MCAD  Concurrent User">
+         </enumerate>
+         <enumerate
+               id="PKG-2437-UF"
+               label="Upgrade to Creo View MCAD  Concurrent User"
+               value="Upgrade to Creo View MCAD  Concurrent User">
+         </enumerate>
+         <enumerate
+               id="PKG-2444-F"
+               label="Upgrade to Creo View MCAD Registered User"
+               value="Upgrade to Creo View MCAD Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-7608-F"
+               label="Creo Illustrate - Floating"
+               value="Creo Illustrate - Floating">
+         </enumerate>
+         <enumerate
+               id="PKG-7608-L"
+               label="Creo Illustrate - Node Locked"
+               value="Creo Illustrate - Node Locked">
+         </enumerate>
+         <enumerate
+               id="PKG-7609-F"
+               label="Creo Illustrate plus Arbortext IsoDraw CADprocess Package Floating"
+               value="Creo Illustrate plus Arbortext IsoDraw CADprocess Package Floating">
+         </enumerate>
+         <enumerate
+               id="PKG-7609-L"
+               label="Creo Illustrate plus Arbortext IsoDraw CADprocess Package Node Locked"
+               value="Creo Illustrate plus Arbortext IsoDraw CADprocess Package Node Locked">
+         </enumerate>
+         <enumerate
+               id="PKG-7610-UF"
+               label="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Floating"
+               value="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Floating">
+         </enumerate>
+         <enumerate
+               id="PKG-7610-UL"
+               label="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Node Locked"
+               value="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Node Locked">
+         </enumerate>
+         <enumerate
+               id="PKG-7611-UF"
+               label="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Floating from Arbortext CADprocess"
+               value="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Floating from Arbortext CADprocess">
+         </enumerate>
+         <enumerate
+               id="PKG-7611-UL"
+               label="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Node Locked from Arbortext CADprocess"
+               value="Upgrade to Creo Illustrate plus Arbortext IsoDraw CADprocess Package Node Locked from Arbortext CADprocess">
+         </enumerate>
+         <enumerate
+               id="PKG-2448-F"
+               label="Creo View Interference Analysis - Registered User"
+               value="Creo View Interference Analysis - Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2448-UF"
+               label="Upgrade ProductView Realizer to Creo View Interference Analysis - Registered User"
+               value="Upgrade ProductView Realizer to Creo View Interference Analysis - Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2453-F"
+               label="Creo View Interference Analysis - Concurrent User"
+               value="Creo View Interference Analysis - Concurrent User">
+         </enumerate>
+         <enumerate
+               id="PKG-2453-UF"
+               label="Upgrade to Creo View Interference Analysis Concurrent User from Registered User"
+               value="Upgrade to Creo View Interference Analysis Concurrent User from Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2449-F"
+               label="Creo View Animator - Registered User"
+               value="Creo View Animator - Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2449-UF"
+               label="Upgrade ProductView Realizer to Creo View Animator - Registered User"
+               value="Upgrade ProductView Realizer to Creo View Animator - Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2454-F"
+               label="Creo View Animator - Concurrent User"
+               value="Creo View Animator - Concurrent User">
+         </enumerate>
+         <enumerate
+               id="PKG-2454-UF"
+               label="Upgrade to Creo View Animator Concurrent User from Registered User"
+               value="Upgrade to Creo View Animator Concurrent User from Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2472-UF"
+               label="Upgrade ProductView Realizer to Creo View Interference Analysis and Animator - Registered User"
+               value="Upgrade ProductView Realizer to Creo View Interference Analysis and Animator - Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2455-F"
+               label="Creo View Massive Assembly Option Concurrent User"
+               value="Creo View Massive Assembly Option Concurrent User">
+         </enumerate>
+         <enumerate
+               id="PKG-2456-F"
+               label="Creo View Massive Assembly Option Registered User"
+               value="Creo View Massive Assembly Option Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2440-F"
+               label="Creo View Design Check - Registered User"
+               value="Creo View Design Check - Registered User">
+         </enumerate>
+         <enumerate
+               id="PKG-2447-F"
+               label="Creo View Design Check - Concurrent"
+               value="Creo View Design Check - Concurrent">
+         </enumerate>
+         <enumerate
+               id="PKG-2447-UF"
+               label="Upgrade to Creo View Design Check Concurrent from Registered"
+               value="Upgrade to Creo View Design Check Concurrent from Registered">
+         </enumerate>
+         <enumerate
+               id="PKG-2450-F"
+               label="Creo View Interference Detection Engine"
+               value="Creo View Interference Detection Engine">
+         </enumerate>
+         <enumerate
+               id="PKG-2441-F"
+               label="Creo View Lite"
+               value="Creo View Lite">
+         </enumerate>
+         <enumerate
+               id="PKG-2475-F"
+               label="Creo View MCAD Lite"
+               value="Creo View MCAD Lite">
+         </enumerate>
+         <enumerate
+               id="PKG-2442-F"
+               label="Creo View Office Toolkit"
+               value="Creo View Office Toolkit">
+         </enumerate>
+         <enumerate
+               id="WNP-2410-F"
+               label="Creo View PDF Collaboration Option"
+               value="Creo View PDF Collaboration Option">
+         </enumerate>
+         <enumerate
+               id="PKG-2476-F"
+               label="Creo View PDF Review"
+               value="Creo View PDF Review">
+         </enumerate>
+         <enumerate
+               id="PKG-2476-UF"
+               label="Upgrade to Creo View PDF Review"
+               value="Upgrade to Creo View PDF Review">
+         </enumerate>
+         <enumerate
+               id="PKG-2457-F"
+               label="Creo View PDF Watermarker"
+               value="Creo View PDF Watermarker">
+         </enumerate>
+         <enumerate
+               id="WNP-2426-F"
+               label="Creo View JT Format Option"
+               value="Creo View JT Format Option">
+         </enumerate>
+         <enumerate
+               id="WNP-2431-F"
+               label="Creo View Java Toolkit"
+               value="Creo View Java Toolkit">
+         </enumerate>
+         <enumerate
+               id="WNP-2432-F"
+               label="Creo View Web Toolkit"
+               value="Creo View Web Toolkit">
+         </enumerate>
+         <enumerate
+               id="WNP-2411-F"
+               label="Creo View Adapter for PDF"
+               value="Creo View Adapter for PDF">
+         </enumerate>
+         <enumerate
+               id="PKG-2477-F"
+               label="Creo View Adapter for PDF"
+               value="Creo View Adapter for PDF">
+         </enumerate>
+         <enumerate
+               id="PKG-2477-UF"
+               label="Upgrade to Creo View Adapter for PDF"
+               value="Upgrade to Creo View Adapter for PDF">
+         </enumerate>
+         <enumerate
+               id="WNX-2311-F"
+               label="Creo View Adapter for Creo"
+               value="Creo View Adapter for Creo">
+         </enumerate>
+         <enumerate
+               id="WNX-2312-F"
+               label="Creo View Adapter for CADDS"
+               value="Creo View Adapter for CADDS">
+         </enumerate>
+         <enumerate
+               id="WNX-2313-F"
+               label="Creo View Adapter for CATIA V4"
+               value="Creo View Adapter for CATIA V4">
+         </enumerate>
+         <enumerate
+               id="WNX-2314-F"
+               label="Creo View Adapter for Unigraphics"
+               value="Creo View Adapter for Unigraphics">
+         </enumerate>
+         <enumerate
+               id="WNX-2315-F"
+               label="Creo View Adapter for I-DEAS"
+               value="Creo View Adapter for I-DEAS">
+         </enumerate>
+         <enumerate
+               id="WNX-2316-F"
+               label="Creo View Adapter for SolidWorks"
+               value="Creo View Adapter for SolidWorks">
+         </enumerate>
+         <enumerate
+               id="WNP-2388-F"
+               label="Creo View Adapter for DGN"
+               value="Creo View Adapter for DGN">
+         </enumerate>
+         <enumerate
+               id="WNP-2427-F"
+               label="Creo View JT Format Adapter"
+               value="Creo View JT Format Adapter">
+         </enumerate>
+         <enumerate
+               id="PKG-2478-F"
+               label="Creo View Adapter for Inventor"
+               value="Creo View Adapter for Inventor">
+         </enumerate>
+         <enumerate
+               id="PKG-2445-F"
+               label="Creo View Adapter Per User License"
+               value="Creo View Adapter Per User License">
+         </enumerate>
+         <enumerate
+               id="WIC-2810-F"
+               label="Creo View ECAD  - Registered User License"
+               value="Creo View ECAD  - Registered User License">
+         </enumerate>
+         <enumerate
+               id="WIC-2803-F"
+               label="Creo View ECAD  - 1 Country Floating"
+               value="Creo View ECAD  - 1 Country Floating">
+         </enumerate>
+         <enumerate
+               id="WIC-2806-L"
+               label="Creo View ECAD  - Node-Locked"
+               value="Creo View ECAD  - Node-Locked">
+         </enumerate>
+         <enumerate
+               id="WIC-2820-F"
+               label="Creo View ECAD Suite"
+               value="Creo View ECAD Suite">
+         </enumerate>
+         <enumerate
+               id="WIC-2820-UF"
+               label="Upgrade to: Creo ECAD Suite"
+               value="Upgrade to: Creo ECAD Suite">
+         </enumerate>
+         <enumerate
+               id="WIC-2821-F"
+               label="Creo View ECAD Suite - 1 Country Floating"
+               value="Creo View ECAD Suite - 1 Country Floating">
+         </enumerate>
+         <enumerate
+               id="WIC-2821-UF"
+               label="Upgrade to: Creo ECAD Suite - 1 Country Floating"
+               value="Upgrade to: Creo ECAD Suite - 1 Country Floating">
+         </enumerate>
+         <enumerate
+               id="WED-2851-FN"
+               label="Creo View Interface for ECAD - 30 Registered Users"
+               value="Creo View Interface for ECAD - 30 Registered Users">
+         </enumerate>
+         <enumerate
+               id="PKG-2854-F"
+               label="EE2007 Layout Interface"
+               value="EE2007 Layout Interface">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5092-F"
+               label="Creo View ECAD Project Suite - Registered User License"
+               value="Creo View ECAD Project Suite - Registered User License">
+         </enumerate>
+         <enumerate
+               id="PKG-2458-F"
+               label="Creo View Adapter for Altium Designer Schematics"
+               value="Creo View Adapter for Altium Designer Schematics">
+         </enumerate>
+         <enumerate
+               id="PKG-2459-F"
+               label="Creo View Adapter for Mentor Expedition"
+               value="Creo View Adapter for Mentor Expedition">
+         </enumerate>
+         <enumerate
+               id="PKG-2460-F"
+               label="Creo View Adapter for Mentor DxDesigner"
+               value="Creo View Adapter for Mentor DxDesigner">
+         </enumerate>
+         <enumerate
+               id="PKG-2461-F"
+               label="Creo View Adapter for Mentor Design Capture"
+               value="Creo View Adapter for Mentor Design Capture">
+         </enumerate>
+         <enumerate
+               id="PKG-2462-F"
+               label="Creo View Adapter for Mentor Board Station"
+               value="Creo View Adapter for Mentor Board Station">
+         </enumerate>
+         <enumerate
+               id="PKG-2463-F"
+               label="Creo View Adapter for Mentor Design Architect"
+               value="Creo View Adapter for Mentor Design Architect">
+         </enumerate>
+         <enumerate
+               id="PKG-2464-F"
+               label="Creo View Adapter for Mentor Pads PowerPCB"
+               value="Creo View Adapter for Mentor Pads PowerPCB">
+         </enumerate>
+         <enumerate
+               id="PKG-2465-F"
+               label="Creo View Adapter for Cadence Allegro PCB"
+               value="Creo View Adapter for Cadence Allegro PCB">
+         </enumerate>
+         <enumerate
+               id="PKG-2466-F"
+               label="Creo View Adapter for Cadence APD"
+               value="Creo View Adapter for Cadence APD">
+         </enumerate>
+         <enumerate
+               id="PKG-2467-F"
+               label="Creo View Adapter for Cadence Allegro Design Entry HDL"
+               value="Creo View Adapter for Cadence Allegro Design Entry HDL">
+         </enumerate>
+         <enumerate
+               id="PKG-2468-F"
+               label="Creo View Adapter for Cadence Allegro Design Capture CIS"
+               value="Creo View Adapter for Cadence Allegro Design Capture CIS">
+         </enumerate>
+         <enumerate
+               id="PKG-2469-F"
+               label="Creo View Adapter for Zuken Board Designer"
+               value="Creo View Adapter for Zuken Board Designer">
+         </enumerate>
+         <enumerate
+               id="PKG-2470-F"
+               label="Creo View Adapter for Zuken System Designer"
+               value="Creo View Adapter for Zuken System Designer">
+         </enumerate>
+         <enumerate
+               id="PKG-2471-F"
+               label="Creo View Adapter for ASCII Neutral Formats"
+               value="Creo View Adapter for ASCII Neutral Formats">
+         </enumerate>
+         <enumerate
+               id="PKG-3501-F"
+               label="Creo Direct"
+               value="Creo Direct">
+         </enumerate>
+         <enumerate
+               id="ENG-3607-F"
+               label="Creo Parametric"
+               value="Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="ENG-3607-L"
+               label="Creo Parametric - Node Locked"
+               value="Creo Parametric - Node Locked">
+         </enumerate>
+         <enumerate
+               id="ENG-3607-UF"
+               label="Upgrade Creo Parametric to Floating"
+               value="Upgrade Creo Parametric to Floating">
+         </enumerate>
+         <enumerate
+               id="PKG-3502-F"
+               label="Creo Simulate"
+               value="Creo Simulate">
+         </enumerate>
+         <enumerate
+               id="PKG-3575-F"
+               label="Creo Layout"
+               value="Creo Layout">
+         </enumerate>
+         <enumerate
+               id="RSP-3097-F"
+               label="Creo Schematics"
+               value="Creo Schematics">
+         </enumerate>
+         <enumerate
+               id="PKG-3588-F"
+               label="Creo Options Modeler Standard Application"
+               value="Creo Options Modeler Standard Application">
+         </enumerate>
+         <enumerate
+               id="PKG-3591-F"
+               label="Creo Options Modeler Enterprise Application"
+               value="Creo Options Modeler Enterprise Application">
+         </enumerate>
+         <enumerate
+               id="PKG-3512-F"
+               label="Creo Essentials I"
+               value="Creo Essentials I">
+         </enumerate>
+         <enumerate
+               id="PKG-3503-F"
+               label="Creo Engineer I"
+               value="Creo Engineer I">
+         </enumerate>
+         <enumerate
+               id="PKG-3513-F"
+               label="Creo Essentials II"
+               value="Creo Essentials II">
+         </enumerate>
+         <enumerate
+               id="PKG-3504-F"
+               label="Creo Engineer II with Advanced Assembly"
+               value="Creo Engineer II with Advanced Assembly">
+         </enumerate>
+         <enumerate
+               id="PKG-3505-F"
+               label="Creo Engineer II with Behavioral Modeling"
+               value="Creo Engineer II with Behavioral Modeling">
+         </enumerate>
+         <enumerate
+               id="PKG-3506-F"
+               label="Creo Engineer II with Mechanism Dynamics"
+               value="Creo Engineer II with Mechanism Dynamics">
+         </enumerate>
+         <enumerate
+               id="PKG-3507-F"
+               label="Creo Engineer III"
+               value="Creo Engineer III">
+         </enumerate>
+         <enumerate
+               id="PKG-3508-F"
+               label="Creo Engineer IV"
+               value="Creo Engineer IV">
+         </enumerate>
+         <enumerate
+               id="PKG-3509-F"
+               label="Creo Analyst"
+               value="Creo Analyst">
+         </enumerate>
+         <enumerate
+               id="PKG-3510-F"
+               label="Creo Industrial Designer"
+               value="Creo Industrial Designer">
+         </enumerate>
+         <enumerate
+               id="PKG-3511-F"
+               label="Creo Design Reviewer"
+               value="Creo Design Reviewer">
+         </enumerate>
+         <enumerate
+               id="INT-563-F"
+               label="Oracle for Pro/INTRALINK Upgrade"
+               value="Oracle for Pro/INTRALINK Upgrade">
+         </enumerate>
+         <enumerate
+               id="MED-SOL64"
+               label="Creo for Solaris 10 x64 CD Shipment"
+               value="Creo for Solaris 10 x64 CD Shipment">
+         </enumerate>
+         <enumerate
+               id="ENG-3608-UF"
+               label="Upgrade: Low-End Package to Creo Parametric"
+               value="Upgrade: Low-End Package to Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="RSP-3097-UF"
+               label="Upgrade: Creo Schematics Lite to Creo Schematics"
+               value="Upgrade: Creo Schematics Lite to Creo Schematics">
+         </enumerate>
+         <enumerate
+               id="PKG-3514-UF"
+               label="Upgrade to Creo Engineer III from Enterprise SE"
+               value="Upgrade to Creo Engineer III from Enterprise SE">
+         </enumerate>
+         <enumerate
+               id="PKG-3515-UF"
+               label="Upgrade to Creo Essentials I from Creo Parametric"
+               value="Upgrade to Creo Essentials I from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3516-UF"
+               label="Upgrade to Creo Engineer I from Creo Parametric"
+               value="Upgrade to Creo Engineer I from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3568-UF"
+               label="Upgrade to Creo Engineer II with Advanced Assembly from Advanced SE"
+               value="Upgrade to Creo Engineer II with Advanced Assembly from Advanced SE">
+         </enumerate>
+         <enumerate
+               id="PKG-3517-UF"
+               label="Upgrade to Creo Engineer II with AAX from Creo Advanced XE with AAX"
+               value="Upgrade to Creo Engineer II with AAX from Creo Advanced XE with AAX">
+         </enumerate>
+         <enumerate
+               id="PKG-3518-UF"
+               label="Upgrade to Creo Engineer II with BMX from Creo Advanced XE with BMX"
+               value="Upgrade to Creo Engineer II with BMX from Creo Advanced XE with BMX">
+         </enumerate>
+         <enumerate
+               id="PKG-3519-UF"
+               label="Upgrade to Creo Engineer II with MDO from Creo Advanced XE with MDO"
+               value="Upgrade to Creo Engineer II with MDO from Creo Advanced XE with MDO">
+         </enumerate>
+         <enumerate
+               id="PKG-3520-UF"
+               label="Upgrade to Creo Engineer IV from Enterprise XE"
+               value="Upgrade to Creo Engineer IV from Enterprise XE">
+         </enumerate>
+         <enumerate
+               id="PKG-3521-UF"
+               label="Upgrade to Creo Essentials I from Low-End"
+               value="Upgrade to Creo Essentials I from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3522-UF"
+               label="Upgrade to Creo Engineer I from Low-End"
+               value="Upgrade to Creo Engineer I from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3523-UF"
+               label="Upgrade to Creo Essentials II from Low-End"
+               value="Upgrade to Creo Essentials II from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3524-UF"
+               label="Upgrade to Creo Engineer II with AAX from Low-End"
+               value="Upgrade to Creo Engineer II with AAX from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3525-UF"
+               label="Upgrade to Creo Engineer II with BMX from Low-End"
+               value="Upgrade to Creo Engineer II with BMX from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3526-UF"
+               label="Upgrade to Creo Engineer II with MDO from Low-End"
+               value="Upgrade to Creo Engineer II with MDO from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3527-UF"
+               label="Upgrade to Creo Industrial Designer from Low-End"
+               value="Upgrade to Creo Industrial Designer from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3528-UF"
+               label="Upgrade to Creo Engineer III from Low-End"
+               value="Upgrade to Creo Engineer III from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3529-UF"
+               label="Upgrade to Creo Engineer IV from Low-End"
+               value="Upgrade to Creo Engineer IV from Low-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3530-UF"
+               label="Upgrade to Creo Engineer III from High-End"
+               value="Upgrade to Creo Engineer III from High-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3531-UF"
+               label="Upgrade to Creo Engineer IV from High-End"
+               value="Upgrade to Creo Engineer IV from High-End">
+         </enumerate>
+         <enumerate
+               id="PKG-3532-UF"
+               label="Upgrade to Creo Essentials II from Creo Parametric"
+               value="Upgrade to Creo Essentials II from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3533-UF"
+               label="Upgrade to Creo Engineer II with AAX from Creo Parametric"
+               value="Upgrade to Creo Engineer II with AAX from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3534-UF"
+               label="Upgrade to Creo Engineer II with BMX from Creo Parametric"
+               value="Upgrade to Creo Engineer II with BMX from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3535-UF"
+               label="Upgrade to Creo Engineer II with MDO from Creo Parametric"
+               value="Upgrade to Creo Engineer II with MDO from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3536-UF"
+               label="Upgrade to Creo Industrial Designer from Creo Parametric"
+               value="Upgrade to Creo Industrial Designer from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3537-UF"
+               label="Upgrade to Creo Engineer III from Creo Parametric"
+               value="Upgrade to Creo Engineer III from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3538-UF"
+               label="Upgrade to Creo Engineer IV from Creo Parametric"
+               value="Upgrade to Creo Engineer IV from Creo Parametric">
+         </enumerate>
+         <enumerate
+               id="PKG-3539-UF"
+               label="Upgrade to Creo Essentials II from Creo Essentials I"
+               value="Upgrade to Creo Essentials II from Creo Essentials I">
+         </enumerate>
+         <enumerate
+               id="PKG-3540-UF"
+               label="Upgrade to Creo Engineer II with AAX from Creo Essentials I"
+               value="Upgrade to Creo Engineer II with AAX from Creo Essentials I">
+         </enumerate>
+         <enumerate
+               id="PKG-3541-UF"
+               label="Upgrade to Creo Engineer II with BMX from Creo Essentials I"
+               value="Upgrade to Creo Engineer II with BMX from Creo Essentials I">
+         </enumerate>
+         <enumerate
+               id="PKG-3542-UF"
+               label="Upgrade to Creo Engineer II with MDO from Creo Essentials I"
+               value="Upgrade to Creo Engineer II with MDO from Creo Essentials I">
+         </enumerate>
+         <enumerate
+               id="PKG-3543-UF"
+               label="Upgrade to Creo Engineer III from Creo Essentials I"
+               value="Upgrade to Creo Engineer III from Creo Essentials I">
+         </enumerate>
+         <enumerate
+               id="PKG-3544-UF"
+               label="Upgrade to Creo Engineer IV from Creo Essentials I"
+               value="Upgrade to Creo Engineer IV from Creo Essentials I">
+         </enumerate>
+         <enumerate
+               id="PKG-3545-UF"
+               label="Upgrade to Creo Essentials II from Creo Engineer I"
+               value="Upgrade to Creo Essentials II from Creo Engineer I">
+         </enumerate>
+         <enumerate
+               id="PKG-3546-UF"
+               label="Upgrade to Creo Engineer II with AAX from Creo Engineer I"
+               value="Upgrade to Creo Engineer II with AAX from Creo Engineer I">
+         </enumerate>
+         <enumerate
+               id="PKG-3547-UF"
+               label="Upgrade to Creo Engineer II with BMX from Creo Engineer I"
+               value="Upgrade to Creo Engineer II with BMX from Creo Engineer I">
+         </enumerate>
+         <enumerate
+               id="PKG-3548-UF"
+               label="Upgrade to Creo Engineer II with MDO from Creo Engineer I"
+               value="Upgrade to Creo Engineer II with MDO from Creo Engineer I">
+         </enumerate>
+         <enumerate
+               id="PKG-3549-UF"
+               label="Upgrade to Creo Engineer III from Creo Engineer I"
+               value="Upgrade to Creo Engineer III from Creo Engineer I">
+         </enumerate>
+         <enumerate
+               id="PKG-3550-UF"
+               label="Upgrade to Creo Engineer IV from Enterprise SE"
+               value="Upgrade to Creo Engineer IV from Enterprise SE">
+         </enumerate>
+         <enumerate
+               id="PKG-3551-UF"
+               label="Upgrade to Creo Engineer IV from Creo Engineer I"
+               value="Upgrade to Creo Engineer IV from Creo Engineer I">
+         </enumerate>
+         <enumerate
+               id="PKG-3552-UF"
+               label="Upgrade to Creo Engineer II with AAX from Creo Essentials II"
+               value="Upgrade to Creo Engineer II with AAX from Creo Essentials II">
+         </enumerate>
+         <enumerate
+               id="PKG-3553-UF"
+               label="Upgrade to Creo Engineer II with BMX from Creo Essentials II"
+               value="Upgrade to Creo Engineer II with BMX from Creo Essentials II">
+         </enumerate>
+         <enumerate
+               id="PKG-3554-UF"
+               label="Upgrade to Creo Engineer II with MDO from Creo Essentials II"
+               value="Upgrade to Creo Engineer II with MDO from Creo Essentials II">
+         </enumerate>
+         <enumerate
+               id="PKG-3555-UF"
+               label="Upgrade to Creo Engineer III from Creo Essentials II"
+               value="Upgrade to Creo Engineer III from Creo Essentials II">
+         </enumerate>
+         <enumerate
+               id="PKG-3573-UF"
+               label="Upgrade to Creo Engineer III from Creo Advanced XE"
+               value="Upgrade to Creo Engineer III from Creo Advanced XE">
+         </enumerate>
+         <enumerate
+               id="PKG-3556-UF"
+               label="Upgrade to Creo Engineer IV from Creo Essentials II"
+               value="Upgrade to Creo Engineer IV from Creo Essentials II">
+         </enumerate>
+         <enumerate
+               id="PKG-3557-UF"
+               label="Upgrade to Creo Engineer III from Creo Engineer II"
+               value="Upgrade to Creo Engineer III from Creo Engineer II">
+         </enumerate>
+         <enumerate
+               id="PKG-3558-UF"
+               label="Upgrade to Creo Engineer IV from Creo Engineer II"
+               value="Upgrade to Creo Engineer IV from Creo Engineer II">
+         </enumerate>
+         <enumerate
+               id="PKG-3559-UF"
+               label="Upgrade to Creo Engineer IV from Creo Engineer III"
+               value="Upgrade to Creo Engineer IV from Creo Engineer III">
+         </enumerate>
+         <enumerate
+               id="CPT-3335-L"
+               label="Creo Flexible Modeling Extension"
+               value="Creo Flexible Modeling Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3021-L"
+               label="Creo Advanced Assembly Extension (AAX)"
+               value="Creo Advanced Assembly Extension (AAX)">
+         </enumerate>
+         <enumerate
+               id="CPT-3337-L"
+               label="Creo Layout Extension"
+               value="Creo Layout Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3345-L"
+               label="Creo Options Modeler Extension"
+               value="Creo Options Modeler Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3346-L"
+               label="Creo Options Modeler Enterprise Extension"
+               value="Creo Options Modeler Enterprise Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3191-L"
+               label="Creo Interactive Surface Design Extension II"
+               value="Creo Interactive Surface Design Extension II">
+         </enumerate>
+         <enumerate
+               id="PTN-3191-F"
+               label="Creo Interactive Surface Design Extension II"
+               value="Creo Interactive Surface Design Extension II">
+         </enumerate>
+         <enumerate
+               id="PTN-3191-UF"
+               label="Upgrade: Creo Advanced Surface Extension to ISDO II"
+               value="Upgrade: Creo Advanced Surface Extension to ISDO II">
+         </enumerate>
+         <enumerate
+               id="CPT-3051-L"
+               label="Creo Behavioral Modeling Extension (BMX)"
+               value="Creo Behavioral Modeling Extension (BMX)">
+         </enumerate>
+         <enumerate
+               id="PTN-3193-F"
+               label="Creo Mechanism Dynamics Extension (MDO)"
+               value="Creo Mechanism Dynamics Extension (MDO)">
+         </enumerate>
+         <enumerate
+               id="CPT-3271-L"
+               label="Creo Piping and Cabling Extension"
+               value="Creo Piping and Cabling Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3271-UL"
+               label="Upgrade to Creo Piping and Cabling Extension"
+               value="Upgrade to Creo Piping and Cabling Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3272-L"
+               label="Creo ISOGEN Enabled Piping and Cabling Extension"
+               value="Creo ISOGEN Enabled Piping and Cabling Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3272-UL"
+               label="Upgrade to Creo ISOGEN Enabled Piping and Cabling Extension"
+               value="Upgrade to Creo ISOGEN Enabled Piping and Cabling Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3324-L"
+               label="Creo Advanced Rendering Extension"
+               value="Creo Advanced Rendering Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3324-F"
+               label="Creo Advanced Rendering Extension"
+               value="Creo Advanced Rendering Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3324-UF"
+               label="Upgrade to Creo Advanced Rendering Extension"
+               value="Upgrade to Creo Advanced Rendering Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3217-L"
+               label="Creo Advanced Rendering Extension I (ARX)"
+               value="Creo Advanced Rendering Extension I (ARX)">
+         </enumerate>
+         <enumerate
+               id="PTN-3217-F"
+               label="Creo Advanced Rendering Extension I"
+               value="Creo Advanced Rendering Extension I">
+         </enumerate>
+         <enumerate
+               id="PTN-3217-UF"
+               label="Upgrade to Creo Advanced Rendering Extension I"
+               value="Upgrade to Creo Advanced Rendering Extension I">
+         </enumerate>
+         <enumerate
+               id="CPT-3216-L"
+               label="Creo Reverse Engineering Extension (REX)"
+               value="Creo Reverse Engineering Extension (REX)">
+         </enumerate>
+         <enumerate
+               id="PTN-3216-F"
+               label="Creo Reverse Engineering Extension"
+               value="Creo Reverse Engineering Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3216-UF"
+               label="Upgrade Creo Reverse Engineering Extension to Extension"
+               value="Upgrade Creo Reverse Engineering Extension to Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3312-L"
+               label="Creo Manikin"
+               value="Creo Manikin">
+         </enumerate>
+         <enumerate
+               id="CPT-3313-L"
+               label="Creo Manikin Analysis"
+               value="Creo Manikin Analysis">
+         </enumerate>
+         <enumerate
+               id="CPT-3228-L"
+               label="Creo Advanced Framework Extension (AFX)"
+               value="Creo Advanced Framework Extension (AFX)">
+         </enumerate>
+         <enumerate
+               id="PTN-3228-F"
+               label="Creo Advanced Framework Extension (AFX)"
+               value="Creo Advanced Framework Extension (AFX)">
+         </enumerate>
+         <enumerate
+               id="PTN-3228-UF"
+               label="Upgrade to Creo Advanced Framework Extension"
+               value="Upgrade to Creo Advanced Framework Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3101-F"
+               label="Creo Tool Design Extension (TDO)"
+               value="Creo Tool Design Extension (TDO)">
+         </enumerate>
+         <enumerate
+               id="PTN-3101-UF"
+               label="Upgrade to Creo Tool Design Extension"
+               value="Upgrade to Creo Tool Design Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3169-L"
+               label="Creo Expert Moldbase Extension (EMX)"
+               value="Creo Expert Moldbase Extension (EMX)">
+         </enumerate>
+         <enumerate
+               id="PTN-3169-F"
+               label="Creo Expert Moldbase Extension"
+               value="Creo Expert Moldbase Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3169-UF"
+               label="Upgrade to Creo Expert Moldbase Extension"
+               value="Upgrade to Creo Expert Moldbase Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3207-L"
+               label="Creo Complete Mold Design Extension"
+               value="Creo Complete Mold Design Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3208-L"
+               label="Creo Progressive Die Extension (PDX)"
+               value="Creo Progressive Die Extension (PDX)">
+         </enumerate>
+         <enumerate
+               id="PTN-3109-L"
+               label="Creo Plastic Advisor Extension"
+               value="Creo Plastic Advisor Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3135-F"
+               label="Creo Prismatics and Multi-Surfaces Milling Extension"
+               value="Creo Prismatics and Multi-Surfaces Milling Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3162-F"
+               label="Creo Production Machining Extension"
+               value="Creo Production Machining Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3162-UF"
+               label="Upgrade to Creo Production Machining Extension"
+               value="Upgrade to Creo Production Machining Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3163-F"
+               label="Creo Complete Machining Extension"
+               value="Creo Complete Machining Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3163-UF"
+               label="Upgrade to the Creo Complete Machining Extension"
+               value="Upgrade to the Creo Complete Machining Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3166-UF"
+               label="Production Machining Option Upgrade to Creo Elements/Pro Complete Machining Option"
+               value="Production Machining Option Upgrade to Creo Elements/Pro Complete Machining Option">
+         </enumerate>
+         <enumerate
+               id="PTN-3263-UF"
+               label="Upgrade to Creo Complete Machining Extension"
+               value="Upgrade to Creo Complete Machining Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3113-F"
+               label="Creo Computer Aided Verification Extension"
+               value="Creo Computer Aided Verification Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3112-F"
+               label="Creo NC Sheetmetal Extension"
+               value="Creo NC Sheetmetal Extension">
+         </enumerate>
+         <enumerate
+               id="PKG-7901-F"
+               label="Pro/TOOLMAKER - Floating"
+               value="Pro/TOOLMAKER - Floating">
+         </enumerate>
+         <enumerate
+               id="CPT-3334-L"
+               label="Creo Advanced Simulation Extension"
+               value="Creo Advanced Simulation Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3223-F"
+               label="Creo Simulation Extension"
+               value="Creo Simulation Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3224-F"
+               label="Creo Advanced Simulation Extension"
+               value="Creo Advanced Simulation Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3224-UF"
+               label="Upgrade to Creo Advanced Simulation Extension"
+               value="Upgrade to Creo Advanced Simulation Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3230-UF"
+               label="Upg: Mechanica Structure to Creo Advanced Mechanica Extension"
+               value="Upg: Mechanica Structure to Creo Advanced Mechanica Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3231-UF"
+               label="Upg: Mechanica Thermal to Creo Advanced Mechanica Extension"
+               value="Upg: Mechanica Thermal to Creo Advanced Mechanica Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3077-F"
+               label="Creo Fatigue Advisor Extension"
+               value="Creo Fatigue Advisor Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3315-L"
+               label="Creo Spark Analysis Extension"
+               value="Creo Spark Analysis Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3305-L"
+               label="Creo Tolerance Analysis Extension powered by CETOL Technology"
+               value="Creo Tolerance Analysis Extension powered by CETOL Technology">
+         </enumerate>
+         <enumerate
+               id="PTN-3305-F"
+               label="Creo Tolerance Analysis Extension powered by CETOL Technology"
+               value="Creo Tolerance Analysis Extension powered by CETOL Technology">
+         </enumerate>
+         <enumerate
+               id="PTN-3305-UF"
+               label="Upgrade Creo Tolerance Analysis Extension powered by CETOL Technology Locked to Floating"
+               value="Upgrade Creo Tolerance Analysis Extension powered by CETOL Technology Locked to Floating">
+         </enumerate>
+         <enumerate
+               id="CPT-3232-L"
+               label="Creo INTERFACE for CATIA V5 with ATB"
+               value="Creo INTERFACE for CATIA V5 with ATB">
+         </enumerate>
+         <enumerate
+               id="PTN-3232-F"
+               label="Creo Interface for CATIA V5 with ATB"
+               value="Creo Interface for CATIA V5 with ATB">
+         </enumerate>
+         <enumerate
+               id="CPT-3085-L"
+               label="Creo INTERFACE for CATIA II with ATB"
+               value="Creo INTERFACE for CATIA II with ATB">
+         </enumerate>
+         <enumerate
+               id="PTN-3085-F"
+               label="Creo Interface for CATIA II with ATB"
+               value="Creo Interface for CATIA II with ATB">
+         </enumerate>
+         <enumerate
+               id="CPT-3234-L"
+               label="Creo INTERFACE for Unigraphics with ATB"
+               value="Creo INTERFACE for Unigraphics with ATB">
+         </enumerate>
+         <enumerate
+               id="CPT-3303-L"
+               label="Creo Interface for JT"
+               value="Creo Interface for JT">
+         </enumerate>
+         <enumerate
+               id="CPT-3304-L"
+               label="Creo Interface for JT Unattended Edition"
+               value="Creo Interface for JT Unattended Edition">
+         </enumerate>
+         <enumerate
+               id="CPT-3333-L"
+               label="Creo Legacy Data Migration Extension"
+               value="Creo Legacy Data Migration Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3333-F"
+               label="Creo Legacy Data Migration Extension"
+               value="Creo Legacy Data Migration Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3284-L"
+               label="Creo 3D Interface for IC Designs"
+               value="Creo 3D Interface for IC Designs">
+         </enumerate>
+         <enumerate
+               id="CPT-3306-L"
+               label="Creo ECAD-MCAD Collaboration Extension"
+               value="Creo ECAD-MCAD Collaboration Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3306-F"
+               label="Creo ECAD-MCAD Collaboration Extension"
+               value="Creo ECAD-MCAD Collaboration Extension">
+         </enumerate>
+         <enumerate
+               id="PTN-3306-UF"
+               label="Upgrade to Creo ECAD-MCAD Collaboration Extension"
+               value="Upgrade to Creo ECAD-MCAD Collaboration Extension">
+         </enumerate>
+         <enumerate
+               id="CPT-3307-L"
+               label="Creo Rights Management Extension"
+               value="Creo Rights Management Extension">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5305-F"
+               label="Rights Management Pro/ENGINEER User"
+               value="Rights Management Pro/ENGINEER User">
+         </enumerate>
+         <enumerate
+               id="PKG-CPE5306-F"
+               label="Rights Management MS or PDF User"
+               value="Rights Management MS or PDF User">
+         </enumerate>
+         <enumerate
+               id="ENG-191-L"
+               label="Creo Language Option - CHINESE"
+               value="Creo Language Option - CHINESE">
+         </enumerate>
+         <enumerate
+               id="PKG-3226-F"
+               label="Creo Distributed Batch Single Service License"
+               value="Creo Distributed Batch Single Service License">
+         </enumerate>
+         <enumerate
+               id="PKG-3227-F"
+               label="Creo Distributed Batch Server Package"
+               value="Creo Distributed Batch Server Package">
+         </enumerate>
+         <enumerate
+               id="PTN-3119-L"
+               label="Creo Application Programming Toolkit"
+               value="Creo Application Programming Toolkit">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-01"
+               label="SEE Electrical Expert Controls Package 电气基础包基础模块"
+               value="SEE Electrical Expert Controls Package 电气基础包基础模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-02"
+               label="SEE Electrical Expert Harness package  线束基础包基础模块"
+               value="SEE Electrical Expert Harness package  线束基础包基础模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-03"
+               label="SEE Electrical Expert Concurrent engineering 项目多人协作模块"
+               value="SEE Electrical Expert Concurrent engineering 项目多人协作模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-04"
+               label="SEE Electrical Expert Parts List 列表清单模块"
+               value="SEE Electrical Expert Parts List 列表清单模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-05"
+               label="SEE Electrical Expert Parts List Manager 列表清单管理模块（包含列表清单模块）"
+               value="SEE Electrical Expert Parts List Manager 列表清单管理模块（包含列表清单模块）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-06"
+               label="SEE Electrical Expert Terminals 端子编辑器模块"
+               value="SEE Electrical Expert Terminals 端子编辑器模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-07"
+               label="SEE Electrical Expert Synoptic 架构图模块（包换端子编辑器模块）"
+               value="SEE Electrical Expert Synoptic 架构图模块（包换端子编辑器模块）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-08"
+               label="SEE Electrical Expert Cabling 电缆布置模块（可以生成图形化电缆图））"
+               value="SEE Electrical Expert Cabling 电缆布置模块（可以生成图形化电缆图））">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-09"
+               label="SEE Electrical Expert Harness Documentation 线束图模块（若只三维展平，不自己画就不需要）"
+               value="SEE Electrical Expert Harness Documentation 线束图模块（若只三维展平，不自己画就不需要）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-10"
+               label="SEE Electrical Expert Panels 电气柜模块"
+               value="SEE Electrical Expert Panels 电气柜模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-11"
+               label="SEE Electrical Expert Panels manufacturing 电气柜制造模块（包含电气柜模块，可以布线、算线长，开孔图）"
+               value="SEE Electrical Expert Panels manufacturing 电气柜制造模块（包含电气柜模块，可以布线、算线长，开孔图）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-12"
+               label="SEE Electrical Expert 3D Panels 3D机柜设计模块（与SOLIDEWORKS接口插件，但不能布线）"
+               value="SEE Electrical Expert 3D Panels 3D机柜设计模块（与SOLIDEWORKS接口插件，但不能布线）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-13"
+               label="SEE Electrical Expert End-Fitting 电线附件定义模块（批量给电线加线鼻子）"
+               value="SEE Electrical Expert End-Fitting 电线附件定义模块（批量给电线加线鼻子）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-14"
+               label="SEE Electrical Expert PLC PLC模块"
+               value="SEE Electrical Expert PLC PLC模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-15"
+               label="SEE Electrical Expert Open Data Excel数据交换模块（可以导入、导出）"
+               value="SEE Electrical Expert Open Data Excel数据交换模块（可以导入、导出）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-16"
+               label="SEE Electrical Expert Data Extractor  XML数据提取模块"
+               value="SEE Electrical Expert Data Extractor  XML数据提取模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-17"
+               label="SEE Electrical Expert Options  Variants   项目配置管理模块"
+               value="SEE Electrical Expert Options  Variants   项目配置管理模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-18"
+               label="SEE Electrical Expert Translation 翻译模块"
+               value="SEE Electrical Expert Translation 翻译模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-19"
+               label="SEE Electrical Expert DXF/DWG AutoCAD接口模块"
+               value="SEE Electrical Expert DXF/DWG AutoCAD接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-20"
+               label="SEE Electrical Expert CATIA interface CATIA接口模块"
+               value="SEE Electrical Expert CATIA interface CATIA接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-21"
+               label="SEE Electrical Expert CREO interface CREO接口模块"
+               value="SEE Electrical Expert CREO interface CREO接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-22"
+               label="SEE Electrical Expert SOLIDWORKS interface SOLIDWORKS接口模块"
+               value="SEE Electrical Expert SOLIDWORKS interface SOLIDWORKS接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-23"
+               label="SEE Electrical Expert NX Interface NX接口模块"
+               value="SEE Electrical Expert NX Interface NX接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-24"
+               label="SEE Electrical Expert INVENTOR Interface INVENTOR接口模块"
+               value="SEE Electrical Expert INVENTOR Interface INVENTOR接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-25"
+               label="SEE Electrical Expert SmarTeam integration Smarteam接口模块"
+               value="SEE Electrical Expert SmarTeam integration Smarteam接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-26"
+               label="SEE Electrical Expert PDM Connect PDM接口模块"
+               value="SEE Electrical Expert PDM Connect PDM接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-27"
+               label="SEE Electrical Expert Viewer 项目预览模块（免费版）"
+               value="SEE Electrical Expert Viewer 项目预览模块（免费版）">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-28"
+               label="SEE Electrical Expert Viewer Premium   "
+               value="SEE Electrical Expert Viewer Premium   ">
+         </enumerate>
+         <enumerate
+               id="SEE-XP4-29"
+               label="SEE Electrical Expert Blocks Viewer 块预览模块"
+               value="SEE Electrical Expert Blocks Viewer 块预览模块">
+         </enumerate>
+         <enumerate
+               id="SEE-01"
+               label="SEE Electrical Basic 基本版"
+               value="SEE Electrical Basic 基本版">
+         </enumerate>
+         <enumerate
+               id="SEE-02"
+               label="SEE Electrical Standard 标准版"
+               value="SEE Electrical Standard 标准版">
+         </enumerate>
+         <enumerate
+               id="SEE-03"
+               label="SEE Electrical Advanced 高级版"
+               value="SEE Electrical Advanced 高级版">
+         </enumerate>
+         <enumerate
+               id="SEE-04"
+               label="SEE Electrical Cabinet layout 机柜模块"
+               value="SEE Electrical Cabinet layout 机柜模块">
+         </enumerate>
+         <enumerate
+               id="SEE-05"
+               label="SEE Electrical House Installation 设施模块"
+               value="SEE Electrical House Installation 设施模块">
+         </enumerate>
+         <enumerate
+               id="SEE-06"
+               label="SEE Electrical Intelligent Legacy Basic 智能视图模块（基本版）"
+               value="SEE Electrical Intelligent Legacy Basic 智能视图模块（基本版）">
+         </enumerate>
+         <enumerate
+               id="SEE-07"
+               label="SEE Electrical Intelligent Legacy Standard 智能视图模块（标准版）"
+               value="SEE Electrical Intelligent Legacy Standard 智能视图模块（标准版）">
+         </enumerate>
+         <enumerate
+               id="SEE-08"
+               label="SEE Electrical Intelligent Legacy Advanced 智能视图模块（高级版）"
+               value="SEE Electrical Intelligent Legacy Advanced 智能视图模块（高级版）">
+         </enumerate>
+         <enumerate
+               id="SEE-09"
+               label="SEE Electrical 3D Cabinet Layout Solidworks 3D 插件"
+               value="SEE Electrical 3D Cabinet Layout Solidworks 3D 插件">
+         </enumerate>
+         <enumerate
+               id="SEE-10"
+               label="SEE Electrical Open Date Excel导入导出模块"
+               value="SEE Electrical Open Date Excel导入导出模块">
+         </enumerate>
+         <enumerate
+               id="SEE-11"
+               label="SEE Electrical Solidworks EPDM Integration Solidworks EPDM接口模块"
+               value="SEE Electrical Solidworks EPDM Integration Solidworks EPDM接口模块">
+         </enumerate>
+         <enumerate
+               id="SEE-12"
+               label="SEE Electrical Inteligence PDF Module 智能PDF生成模块"
+               value="SEE Electrical Inteligence PDF Module 智能PDF生成模块">
+         </enumerate>
+         <enumerate
+               id="SEE-13"
+               label="SEE Electrical PDM Connect PDM连接模块"
+               value="SEE Electrical PDM Connect PDM连接模块">
+         </enumerate>
+         <enumerate
+               id="SEE-14"
+               label="SEE Electrical Environment Synchronizer 环境同步"
+               value="SEE Electrical Environment Synchronizer 环境同步">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.actiontype.enumerate"
+            label="活动类型"
+            value="活动类型">
+         <enumerate
+               id="电话联系">
+         </enumerate>
+         <enumerate
+               id="公司拜访">
+         </enumerate>
+         <enumerate
+               id="售前技术">
+         </enumerate>
+         <enumerate
+               id="商务活动">
+         </enumerate>
+         <enumerate
+               id="技术服务">
+         </enumerate>
+         <enumerate
+               id="服务跟踪">
+         </enumerate>
+         <enumerate
+               id="市场活动">
+         </enumerate>
+         <enumerate
+               id="内部培训">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.action.status"
+            label="活动状态">
+         <enumerate
+               id="计划">
+         </enumerate>
+         <enumerate
+               id="进行">
+         </enumerate>
+         <enumerate
+               id="取消">
+         </enumerate>
+         <enumerate
+               id="完成">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.level"
+            label="级别"
+            value="级别">
+         <enumerate
+               id="com.sg.crm.enumerate.levelA"
+               label="A"
+               value="A">
+         </enumerate>
+         <enumerate
+               id="com.sg.crm.enumerate.levelB"
+               label="B"
+               value="B">
+         </enumerate>
+         <enumerate
+               id="com.sg.crm.enumerate.levelC"
+               label="C"
+               value="C">
+         </enumerate>
+         <enumerate
+               id="com.sg.crm.enumerate.levelD"
+               label="D"
+               value="D">
+         </enumerate>
+         <enumerate
+               id="com.sg.crm.enumerate.levelX"
+               label="X"
+               value="X">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.custlevel"
+            label="服务等级"
+            value="服务等级">
+         <enumerate
+               id="战略客户">
+         </enumerate>
+         <enumerate
+               id="大客户">
+         </enumerate>
+         <enumerate
+               id="普通客户">
+         </enumerate>
+         <enumerate
+               id="准客户">
+         </enumerate>
+         <enumerate
+               id="非客户">
+         </enumerate>
+         <enumerate
+               id="黑名单">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.levelcommon"
+            label="等级"
+            value="等级">
+         <enumerate
+               id="良好">
+         </enumerate>
+         <enumerate
+               id="普通">
+         </enumerate>
+         <enumerate
+               id="不良">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.levelcompanydev"
+            label="企业前景和状态">
+         <enumerate
+               id="快速发展">
+         </enumerate>
+         <enumerate
+               id="发展停滞">
+         </enumerate>
+         <enumerate
+               id="预期退市">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.productlifecycle"
+            label="产品生命周期">
+         <enumerate
+               id="开发期">
+         </enumerate>
+         <enumerate
+               id="导入期">
+         </enumerate>
+         <enumerate
+               id="成长期">
+         </enumerate>
+         <enumerate
+               id="成熟期">
+         </enumerate>
+         <enumerate
+               id="衰退期">
+         </enumerate>
+         <enumerate
+               id="消亡期">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.productive"
+            label="制造企业生产类型">
+         <enumerate
+               id="订货型生产（设计）">
+         </enumerate>
+         <enumerate
+               id="备货型生产">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.productivevolumn"
+            label="制造企业产量类型">
+         <enumerate
+               id="大量生产">
+         </enumerate>
+         <enumerate
+               id="成批生产">
+         </enumerate>
+         <enumerate
+               id="单件生产">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.competive"
+            label="市场地位">
+         <enumerate
+               id="领导者">
+         </enumerate>
+         <enumerate
+               id="追随者">
+         </enumerate>
+         <enumerate
+               id="新进者">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.opportunity"
+            label="商机阶段">
+         <enumerate
+               id="识别需求">
+         </enumerate>
+         <enumerate
+               id="预算规划">
+         </enumerate>
+         <enumerate
+               id="交流选型">
+         </enumerate>
+         <enumerate
+               id="招标谈判">
+         </enumerate>
+         <enumerate
+               id="签订合同">
+         </enumerate>
+         <enumerate
+               id="启动实施">
+         </enumerate>
+         <enumerate
+               id="项目结案">
+         </enumerate>
+      </enumerate>
+      <enumerate
+            id="com.sg.crm.enumerate.keyreq"
+            label="关键需求">
+         <enumerate
+               id="研发进度无法满足市场（或顾客）的需要">
+         </enumerate>
+         <enumerate
+               id="产品质量无法满足市场（或顾客）的需要">
+         </enumerate>
+         <enumerate
+               id="设计和制造的数据不一致，引起生产和质量的问题">
+         </enumerate>
+         <enumerate
+               id="变更管理不善，设计和制造数据的不一致">
+         </enumerate>
+         <enumerate
+               id="技术资料分散管理，共享困难，有安全性问题">
+         </enumerate>
+         <enumerate
+               id="存在大量重复性设计，造成一物多码，库存积压">
+         </enumerate>
+         <enumerate
+               id="跨专业的协作问题，变更难于传递">
+         </enumerate>
+         <enumerate
+               id="缺少统一的技术规范和标准">
+         </enumerate>
+         <enumerate
+               id="缺少系统整合，产生系统间数据孤岛">
+         </enumerate>
+         <enumerate
+               id="上下游共享设计数据的需要">
+         </enumerate>
+      </enumerate>
+   </extension>
+   <!--extension
+         name="演示"
+         point="com.sg.ui.table">
+      <table
+            contentProvider="com.sg.ui.viewer.table.DBCursorContentProvider"
+            fix="2"
+            fullSelection="true"
+            hasBorder="false"
+            headerVisiable="true"
+            id="com.sg.crm.table.customer.0"
+            inputProvider="com.sg.crm.company.input.CompanyDBCursorInput"
+            lineVisiable="true"
+            multiSelection="false"
+            useHashlookup="true"
+            virtual="true">
+         <column
+               column="desc"
+               moveable="true"
+               name="名称"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="String"
+               width="200">
+         </column>
+         <columnGroup
+               defaultGroup="true"
+               id="customer.product"
+               name="行业和产品">
+            <column
+                  column="industry"
+                  moveable="true"
+                  name="行业"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="product"
+                  moveable="true"
+                  name="产品"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+         </columnGroup>
+         <columnGroup
+               defaultGroup="false"
+               id="customer.size"
+               name="企业规模">
+            <column
+                  column="annual"
+                  moveable="true"
+                  name="年产值"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="Integer"
+                  width="120">
+            </column>
+            <column
+                  column="capital"
+                  moveable="true"
+                  name="注册资金"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="Integer"
+                  width="120">
+            </column>
+            <column
+                  column="level"
+                  moveable="true"
+                  name="级别"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+         </columnGroup>
+         <columnGroup
+               defaultGroup="false"
+               id="customer.contact"
+               name="地址以及联系方式">
+            <column
+                  column="prov"
+                  moveable="true"
+                  name="省"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="city"
+                  moveable="true"
+                  name="市"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="dist"
+                  moveable="true"
+                  name="区县"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="address"
+                  moveable="true"
+                  name="地址"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="postcode"
+                  moveable="true"
+                  name="邮编"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="tel_1"
+                  moveable="true"
+                  name="电话1"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="tel_2"
+                  moveable="true"
+                  name="电话2"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="email"
+                  moveable="true"
+                  name="E-Mail"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+         </columnGroup>
+      </table>
+      <table
+            fix="1"
+            fullSelection="true"
+            hasBorder="false"
+            headerVisiable="true"
+            id="com.sg.crm.table.customer.1"
+            inputProvider="com.sg.crm.company.input.CompanyInput"
+            lineVisiable="true"
+            multiSelection="false"
+            useHashlookup="true"
+            virtual="true">
+         <column
+               column="desc"
+               moveable="true"
+               name="名称"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="String"
+               width="200">
+         </column>
+         <columnGroup
+               defaultGroup="true"
+               id="customer.product"
+               name="行业和产品">
+            <column
+                  column="industry"
+                  moveable="true"
+                  name="行业"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="product"
+                  moveable="true"
+                  name="产品"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+         </columnGroup>
+         <columnGroup
+               defaultGroup="false"
+               id="customer.size"
+               name="企业规模">
+            <column
+                  column="annual"
+                  moveable="true"
+                  name="年产值"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="Integer"
+                  width="80">
+            </column>
+            <column
+                  column="capital"
+                  moveable="true"
+                  name="注册资金"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="Integer"
+                  width="120">
+            </column>
+            <column
+                  column="level"
+                  moveable="true"
+                  name="级别"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+         </columnGroup>
+         <columnGroup
+               defaultGroup="false"
+               id="customer.contact"
+               name="地址以及联系方式">
+            <column
+                  column="prov"
+                  moveable="true"
+                  name="省"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="city"
+                  moveable="true"
+                  name="市"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="dist"
+                  moveable="true"
+                  name="区县"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="address"
+                  moveable="true"
+                  name="地址"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="postcode"
+                  moveable="true"
+                  name="邮编"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="tel_1"
+                  moveable="true"
+                  name="电话1"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="tel_2"
+                  moveable="true"
+                  name="电话2"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+            <column
+                  column="email"
+                  moveable="true"
+                  name="E-Mail"
+                  resizable="true"
+                  sortable="true"
+                  style="SWT.LEFT"
+                  type="String"
+                  width="120">
+            </column>
+         </columnGroup>
+      </table>
+      <table
+            canCreate="true"
+            canDelete="true"
+            collectionName="contract"
+            customItemHeight="72"
+            dbName="appportal"
+            doubleClickListener="com.sg.ui.viewer.table.DoubleClickOpenEditor"
+            editorId="crm.company.editor"
+            fullSelection="true"
+            hasBorder="false"
+            headerVisiable="true"
+            id="com.sg.crm.table.action.ineditor.company.1"
+            idfield="_id"
+            inputProvider="com.sg.crm.action.input.ActionInputInCompanyEditor"
+            lineVisiable="true"
+            markupEnabled="false"
+            multiSelection="true"
+            useHashlookup="true"
+            virtual="true">
+         <column
+               column="type"
+               moveable="true"
+               name="活动类型"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="String"
+               width="60">
+         </column>
+         <column
+               column="desc"
+               moveable="true"
+               name="描述"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="String"
+               width="80">
+         </column>
+         <column
+               column="pstart"
+               moveable="true"
+               name="计划开始"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="Date"
+               width="80">
+         </column>
+         <column
+               column="pfinish"
+               moveable="true"
+               name="计划完成"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="Date"
+               width="80">
+         </column>
+         <column
+               column="astart"
+               moveable="true"
+               name="实际开始"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="Date"
+               width="80">
+         </column>
+         <column
+               column="afinish"
+               moveable="true"
+               name="实际完成"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="Date"
+               width="80">
+         </column>
+         <column
+               column="remark"
+               moveable="true"
+               name="评估"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="String"
+               width="120">
+         </column>
+         <column
+               column="actor_name"
+               moveable="true"
+               name="执行"
+               resizable="true"
+               sortable="true"
+               style="SWT.LEFT"
+               type="String"
+               width="60">
+         </column>
+      </table>
+   </extension>
+   <extension
+         point="com.sg.ui.dataEditor">
+      <basicpage
+            description="对商机进行价值分析"
+            id="basicpage_plm"
+            image="image/checklist_32.png"
+            title="价值分析">
+         <pagecolumn
+               id="1">
+            <section
+                  description="请选择现有的主要因素"
+                  expand="true"
+                  label="价值识别(PLM)">
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_020"
+                     label="研发进度无法满足市场（或顾客）的需要"
+                     labelVisible="true"
+                     name="qa_plm_020"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_030"
+                     label="产品质量无法满足市场（或顾客）的需要"
+                     labelVisible="true"
+                     name="qa_plm_030"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_040"
+                     label="设计和制造的数据不一致，引起生产和质量的问题"
+                     labelVisible="true"
+                     name="qa_plm_040"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_050"
+                     label="变更管理不善，设计和制造数据的不一致"
+                     labelVisible="true"
+                     name="qa_plm_050"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_060"
+                     label="技术资料分散管理，共享困难，有安全性问题"
+                     labelVisible="true"
+                     name="qa_plm_060"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_070"
+                     label="存在大量重复性设计，造成一物多码，库存积压"
+                     labelVisible="true"
+                     name="qa_plm_070"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_090"
+                     label="跨专业的协作问题，变更难于传递"
+                     labelVisible="true"
+                     name="qa_plm_090"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_100"
+                     label="缺少统一的技术规范和标准"
+                     labelVisible="true"
+                     name="qa_plm_100"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_080"
+                     label="缺少系统整合，产生系统间数据孤岛"
+                     labelVisible="true"
+                     name="qa_plm_080"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_110"
+                     label="上下游共享设计数据的需要"
+                     labelVisible="true"
+                     name="qa_plm_110"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     computeField="false"
+                     editPart="List"
+                     editable="true"
+                     heightHint="106"
+                     id="qa_plm_xxx"
+                     label="如果不在上述的条目中，请列举"
+                     labelVisible="true"
+                     name="qa_plm_xxx"
+                     persistable="true"
+                     required="false"
+                     type="StringList">
+               </field>
+            </section>
+            <section
+                  expand="true"
+                  label="数据统计">
+               <field
+                     computeField="false"
+                     editPart="Text(Single Line)"
+                     editable="true"
+                     id="qa_plm_100"
+                     label="年延期项目数占总数比率"
+                     labelVisible="true"
+                     name="qa_plm_100"
+                     persistable="true"
+                     presentationFormat="##%"
+                     required="false"
+                     type="Double">
+               </field>
+               <field
+                     computeField="false"
+                     editPart="Spinner"
+                     editable="true"
+                     id="qa_plm_110"
+                     label="平均每个产品的变更次数"
+                     labelVisible="true"
+                     name="qa_plm_110"
+                     persistable="true"
+                     required="false"
+                     type="Integer">
+               </field>
+               <field
+                     computeField="false"
+                     editPart="Spinner"
+                     editable="true"
+                     id="qa_plm_110"
+                     label="平均每个产品的返工/返修次数"
+                     labelVisible="true"
+                     name="qa_plm_110"
+                     persistable="true"
+                     required="false"
+                     type="Integer">
+               </field>
+               <field
+                     computeField="false"
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_120"
+                     label="是否出现技术资料的泄密"
+                     labelVisible="true"
+                     name="qa_plm_120"
+                     persistable="true"
+                     required="false"
+                     type="Boolean">
+               </field>
+               <field
+                     computeField="false"
+                     editPart="Spinner"
+                     editable="true"
+                     id="qa_plm_130"
+                     label="每年质量问题招致的顾客投诉"
+                     labelVisible="true"
+                     name="qa_plm_130"
+                     persistable="true"
+                     required="false"
+                     type="Integer">
+               </field>
+            </section>
+         </pagecolumn>
+         <pagecolumn
+               id="2">
+            <section
+                  description="根据识别的因素以及客户现状选择改善价值价值机会"
+                  expand="true"
+                  label="价值机会">
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_210"
+                     label="降低产品成本"
+                     labelVisible="true"
+                     name="qa_plm_210"
+                     persistable="true"
+                     tooltips="通过减少如制造费用、原料成本和材料采购成本等成本要素降低产品的直接成本。"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_220"
+                     label="降低生命周期成本"
+                     labelVisible="true"
+                     name="qa_plm_220"
+                     persistable="true"
+                     tooltips="通过改善跨职能部门（包括设计、工程、生产、制造、销售、营销和服务）的团队效率，降低间接的生命周期成本。"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_230"
+                     label="缩短产品研发周期"
+                     labelVisible="true"
+                     name="qa_plm_230"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+               <field
+                     editPart="ChechBox"
+                     editable="true"
+                     id="qa_plm_240"
+                     label="加速新产品研发"
+                     labelVisible="true"
+                     name="qa_plm_240"
+                     persistable="true"
+                     type="Boolean">
+               </field>
+            </section>
+         </pagecolumn>
+      </basicpage>
+   </extension-->
+
+</plugin>

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Respack
+Bundle-SymbolicName: com.sg.crm.respack;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.sg.crm.respack.ResourcePackage
+Bundle-Vendor: SG
+Require-Bundle: org.eclipse.core.runtime,
+ com.sg.ui;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
